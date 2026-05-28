@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(javac BubbleSort.java)",
+      "Bash(java BubbleSort)",
+      "Bash(javac -encoding UTF-8 BubbleSort.java)"
+    ]
+  }
+}
